@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1651473429 source:/home/osssss/Desktop/SDL/Sample1/Dev/Game/Game.cpp
+	"Game.h"
+	"Texture_m.h"
+	"Map.h"
+
+1651473412 /home/osssss/Desktop/SDL/Sample1/Dev/Game/Game.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<bits/stdc++.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<cstdlib>
+
+1651467687 /home/osssss/Desktop/SDL/Sample1/Dev/Game/Texture_m.h
+	"Game.h"
+
+1651467687 /home/osssss/Desktop/SDL/Sample1/Dev/Game/Map.h
+	"Game.h"
+
+1651467687 source:/home/osssss/Desktop/SDL/Sample1/Dev/Game/Map.cpp
+	"Map.h"
+	"matrixx.h"
+	"Texture_m.h"
+
+1651467687 /home/osssss/Desktop/SDL/Sample1/Dev/Game/matrixx.h
+
+1651467687 source:/home/osssss/Desktop/SDL/Sample1/Dev/Game/Objects.cpp
+	"Game.h"
+	"Texture_m.h"
+	"matrixx.h"
+	<bits/stdc++.h>
+
+1651467688 source:/home/osssss/Desktop/SDL/Sample1/Dev/Game/Police.cpp
+	<bits/stdc++.h>
+	"Game.h"
+	"Texture_m.h"
+	"matrixx.h"
+
+1651467687 source:/home/osssss/Desktop/SDL/Sample1/Dev/Game/Texture_m.cpp
+	"Texture_m.h"
+
